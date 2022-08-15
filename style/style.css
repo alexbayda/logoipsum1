@@ -65,6 +65,10 @@
     transition: 500ms;
 }
 
+.about{
+    margin: 105px auto 85px;
+}
+
 
 .about__title{
     font-weight: bold;
